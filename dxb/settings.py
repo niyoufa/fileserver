@@ -78,4 +78,4 @@ deadline_time = 60
 
 file_download_store_url = project_root_path +"/var/report/"
 
-installed_apps = ["fileapp"]
+installed_apps = ["addons.fileapp"]
